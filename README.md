@@ -138,7 +138,7 @@
 
 ### 🎵 My Favorite Tracks
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31abcxyzxxxx)](https://open.spotify.com/user/31gntejqimb7m756sdogbjed3ik4)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31gntejqimb7m756sdogbjed3ik4)](https://open.spotify.com/user/31gntejqimb7m756sdogbjed3ik4)
 
 
 <picture>
