@@ -130,15 +130,7 @@
 
 ###
 
-### 🎧 Now Playing on Spotify
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31gntejqimb7m756sdogbjed3ik4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
-### 🎵 My Favorite Tracks
-
-[![Spotify](https://open.spotify.com/user/31gntejqimb7m756sdogbjed3ik4)](https://open.spotify.com/user/31gntejqimb7m756sdogbjed3ik4)
 
 
 <picture>
