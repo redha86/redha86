@@ -1,5 +1,5 @@
 ## Hi there, I'm Redha Artha Septaviano 👋
-![Redha Artha](img/github-header.png)
+![Redha Artha](img/github-header-image.png)
 <!--
 **redha86/redha86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
